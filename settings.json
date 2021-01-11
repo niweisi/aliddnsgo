@@ -1,0 +1,19 @@
+{
+    "AccessId": "",
+    "AccessKey": "",
+    "MainDomain": "xxx.com",
+    "SubDomains": [
+        {
+            "Type": "A",
+            "SubDomain": "sub1",
+            "Interval": 600,
+            "Mac": "08:ed:22:7e:ee:44"
+        },
+        {
+            "Type": "A",
+            "SubDomain": "sub2",
+            "Interval": 600,
+            "Mac": "public"
+        }
+    ]
+}
